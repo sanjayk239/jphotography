@@ -82,6 +82,8 @@ body{background-color: #101010;color:#fff;}
 	@media screen and (min-width:600px){
 		
 		.outer{width:23%;}
+		.photo{margin:3px;}
+		.photo1{margin:0px}
 	}
 	
 	
