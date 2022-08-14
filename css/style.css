@@ -51,8 +51,8 @@ body{background-color: #101010;color:#fff;}
 .hello1{width:100%;height:300px;text-align:center;}
 .jhon{font-size: 31px; font-weight: 900;line-height: 1.2;}
 .jhon1{font-size: 21px;word-spacing: 12px;line-height:1}
-.all{text-align:center;    margin: 0px 6px;}
-.all1{font-weight:800; color: #636363;text-decoration:none;font-size:20px;    margin: 13px;}
+.all{text-align:center;    margin: 40px 6px;}
+.all1{font-weight:800; color: #636363;text-decoration:none;font-size:20px;    margin: 5px;}
 .all2{font-weight:800; color: #fff;text-decoration:none;    margin: 0px;font-size:20px;       border-radius: 25px; padding: 10px 15px;border:1px solid #fff;}
 .all1:hover{border:1px solid #fff; padding: 10px 21px;    border-radius: 25px;}
 
